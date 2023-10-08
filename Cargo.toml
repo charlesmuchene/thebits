@@ -1,5 +1,6 @@
 [workspace]
 resolver = "2"
+exclude = ["00-intro"]
 members = []
 
 [workspace.package]
